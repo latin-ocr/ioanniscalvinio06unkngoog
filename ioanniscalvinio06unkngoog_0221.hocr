@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio06unkngoog_0221.png"; bbox 0 0 5017 6142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1801 2297 2948 2404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1801 2297 2948 2404">
+     <span class='ocr_line' id='line_1_1' title="bbox 1801 2297 2948 2404; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1801 2304 2344 2404; x_wconf 85' lang='lat' dir='ltr'><strong>IOANNIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2401 2297 2948 2398; x_wconf 82' lang='lat' dir='ltr'><strong>CALVINI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 384 2808 4368 2984">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 384 2808 4368 2984">
+     <span class='ocr_line' id='line_1_2' title="bbox 384 2808 4368 2984; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 384 2810 2171 2982; x_wconf 77' lang='lat' dir='ltr'><strong>COMMENTARIUS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2296 2808 2544 2976; x_wconf 92' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2662 2810 3538 2980; x_wconf 89' lang='lat' dir='ltr'>LIBRUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 3660 2810 4368 2984; x_wconf 76' lang='lat' dir='ltr'><strong>IOSUE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2022 3396 2598 3401">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2022 3396 2598 3401">
+     <span class='ocr_line' id='line_1_3' title="bbox 2022 3396 2598 3401; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 2022 3396 2598 3401; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
